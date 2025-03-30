@@ -1,5 +1,5 @@
 # acasadocaminho
-Atalho oficial para usuários da Comunidade Espírita - A Casa do Caminho JF
+Atalho oficial para Usuários Apple da Comunidade Espírita - A Casa do Caminho JF
 
 # PASSOS:
 
