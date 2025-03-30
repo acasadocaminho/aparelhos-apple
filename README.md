@@ -3,7 +3,8 @@ Atalho oficial para Usuários Apple da Comunidade Espírita - A Casa do Caminho 
 
 # PASSOS:
 
-1º) Fazer o download do aplicativo "ATALHOS" na Apple AppStore. \n
+1º) Fazer o download do aplicativo "ATALHOS" na Apple AppStore.
+
 Link: https://apps.apple.com/br/app/shortcuts/id1462947752
 
 2º) Fazer o download do atalho da Comunidade no link abaixo.
