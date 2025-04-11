@@ -15,3 +15,5 @@ https://www.icloud.com/shortcuts/8006f1da0124473eb1f8d1e27c428e01
 https://archive.org/download/acasadocaminho/cecc.mobileconfig
 
 Vídeo de Explicação para Leigos:
+
+https://youtu.be/L_VLzHvoehU?si=996f6iNy-NwX7K9M
