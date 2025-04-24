@@ -16,4 +16,4 @@ https://archive.org/download/acasadocaminho/cecc.mobileconfig
 
 Vídeo de Explicação para Leigos:
 
-https://youtu.be/L_VLzHvoehU?si=996f6iNy-NwX7K9M
+https://youtu.be/ndL3QidEHLw?si=IAkeeXo4KbfB7JNP
